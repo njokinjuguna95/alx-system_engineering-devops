@@ -9,3 +9,4 @@ Move the file betty from /tmp/ to /tmp/my_first_directory
 deleete the file betty
 Delete the directory my_first_directory that is in the /tmp directory
 changes the working directory to the previous one
+lists all files in the current directory and the parent of the working directory and the /boot directory
