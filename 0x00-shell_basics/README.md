@@ -12,3 +12,4 @@ changes the working directory to the previous one
 lists all files in the current directory and the parent of the working directory and the /boot directory
 prints the type of the file named iamafile
 Create a symbolic link to /bin/ls
+copies all the HTML files from the current working directory to the parent of the working directory
