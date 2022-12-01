@@ -12,3 +12,4 @@ adds execute permission to all subdirectories of the current directory for the o
 create dir with permissions
 changes the group owner to school for the file hello
 change owner and grp owner
+changes the owner and the group owner
